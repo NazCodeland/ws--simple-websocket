@@ -1,0 +1,15 @@
+{
+  "name": "ws--simple-websocket",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Simple client and server side WebSocket implementation using ws library.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
